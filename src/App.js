@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>Test</h1>
+        <h2>hello world</h2>
       </header>
     </div>
   );
